@@ -1,0 +1,10 @@
+.blogListContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  padding-left: 0px;
+  text-decoration: none;
+}
+.loader {
+  align-self: center;
+}
